@@ -1,6 +1,8 @@
 
 /**
- * Devuelve el contenido de la fila x del fichero de texto con ruta absoluta file
+ * Hay dos metodos:
+ * Uno devuelve el contenido de la fila x del fichero de texto 
+ * Otro devuelve la posicion geografica
  * 
  * @author (Mykola Oliinyk) 
  * @version (1.2)
